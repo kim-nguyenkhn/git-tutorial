@@ -13,22 +13,22 @@ tldr;
 
 ### 1. Forking
 
-![Forking](screenshots/01_forking.png)
+<kbd>![Forking](screenshots/01_forking.png)</kbd>
 
 ### 2. Cloning
 
-![Cloning](screenshots/02_cloning.png)
+<kbd>![Cloning](screenshots/02_cloning.png)</kbd>
 
-![Cloning - Terminal](screenshots/02b_cloning.png)
+<kbd>![Cloning - Terminal](screenshots/02b_cloning.png)</kbd>
 
 ### 3. Making changes
 
-![Making Changes](screenshots/03b_making_changes.png)
+<kbd>![Making Changes](screenshots/03b_making_changes.png)</kbd>
 
 ### 4. Creating a Pull Request
 
-![New Pull Request](screenshots/04_new_pr.png)
+<kbd>![New Pull Request](screenshots/04_new_pr.png)</kbd>
 
-![Compare Forks](screenshots/05b_compare_forks.png)
+<kbd>![Compare Forks](screenshots/05b_compare_forks.png)</kbd>
 
 Click the big green "Create Pull Request" button to finish. From there, I'll merge the PR and you should see your resulting changes in **[kittens.md](kittens.md)**.

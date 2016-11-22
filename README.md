@@ -17,11 +17,11 @@ tldr;
 
 #### 2. Cloning
 
-![Cloning](screenshots/02_cloning.png)
+![Cloning](screenshots/02b_cloning.png)
 
 #### 3. Making changes
 
-![Making Changes](screenshots/03_making_changes.png)
+![Making Changes](screenshots/03b_making_changes.png)
 
 #### 4. Creating a Pull Request
 

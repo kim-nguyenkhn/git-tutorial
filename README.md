@@ -13,7 +13,8 @@ tldr;
 1. Fork the repo into your profile.
 2. Clone your own fork in your terminal window.
 3. Open kittens.md & make changes.
-4. Create a new Pull Request (PR) to merge your changes into kim-nguyenkhn/git-tutorial.
+4. Commit & push your changes.
+5. Create a new Pull Request (PR) to merge your changes into kim-nguyenkhn/git-tutorial.
 ```
 
 ### 1. Forking
@@ -28,9 +29,19 @@ tldr;
 
 ### 3. Making changes
 
+<kbd>![Making Changes](screenshots/03a_making_changes.png)</kbd>
+
 <kbd>![Making Changes](screenshots/03b_making_changes.png)</kbd>
 
-### 4. Creating a Pull Request
+### 4. Committing & Pushing
+
+<kbd>![Git Diff](screenshots/03c_diff.png)</kbd>
+
+<kbd>![Git Commit](screenshots/03d_status_add.png)</kbd>
+
+<kbd>![Git Push](screenshots/03e_status_commit_push.png)</kbd>
+
+### 5. Creating a Pull Request
 
 <kbd>![New Pull Request](screenshots/04_new_pr.png)</kbd>
 

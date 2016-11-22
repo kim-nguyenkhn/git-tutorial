@@ -75,6 +75,6 @@ git push                                (Publish local changes into your fork)
 
 <kbd>![Compare Forks](screenshots/05b_compare_forks.png)</kbd>
 
-Click **["New Pull Request"]**(https://github.com/kim-nguyenkhn/git-tutorial/compare?expand=1). Click "Compare Across Forks". Select your fork from the dropdown.
+Click **["New Pull Request."](https://github.com/kim-nguyenkhn/git-tutorial/compare?expand=1)** Click "Compare Across Forks". Select your fork from the dropdown.
 
 Click the big green "Create Pull Request" button to finish. From there, I'll merge the PR and you should see your resulting changes in **[kittens.md](kittens.md)**.

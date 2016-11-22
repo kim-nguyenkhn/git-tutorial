@@ -36,10 +36,14 @@ Use the **[Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)** h
 
 **[Clone the repository.](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)** This command puts a copy of the Git repository onto your local machine, so you can work with it.
 
+Use this **[Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)** if you get lost in the terminal.
+
 ```bash
-cd ~/Documents                              (Use cd, or Change Directory, to navigate to where you want your local copy to live)
-git clone <YOUR_FORK_HTTPS_GIT_URL_HERE>    (Clone your fork\'s .git URL)
+cd ~/Documents                              (Change directory - Navigate to where you want your local copy to live)
+pwd                                         (Show current directory)
+git clone <YOUR_FORK_HTTPS_GIT_URL_HERE>    (Clone your fork .git URL)
 cd git-tutorial                             (Go into your newly cloned directory)
+ls                                          (List files to verify)
 ```
 
 

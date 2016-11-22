@@ -11,19 +11,21 @@ tldr;
 4. Create a new Pull Request (PR) to merge your changes into kim-nguyenkhn/git-tutorial.
 ```
 
-#### 1. Forking
+### 1. Forking
 
 ![Forking](screenshots/01_forking.png)
 
-#### 2. Cloning
+### 2. Cloning
 
-![Cloning](screenshots/02b_cloning.png)
+![Cloning](screenshots/02_cloning.png)
 
-#### 3. Making changes
+![Cloning - Terminal](screenshots/02b_cloning.png)
+
+### 3. Making changes
 
 ![Making Changes](screenshots/03b_making_changes.png)
 
-#### 4. Creating a Pull Request
+### 4. Creating a Pull Request
 
 ![New Pull Request](screenshots/04_new_pr.png)
 

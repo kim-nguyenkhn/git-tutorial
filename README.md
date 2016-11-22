@@ -64,7 +64,7 @@ Download [Atom](https://atom.io/) or [Sublime Text](https://sublimetext.com/3) f
 
 <kbd>![Git Push](screenshots/03e_status_commit_push.png)</kbd>
 
-Use the commands below to verify & publish your changes.
+Make sure you are in your local "git-tutorial" directory. Use the commands below to verify & publish your changes.
 
 ```bash
 git diff                                (Shows local changes to tracked files)

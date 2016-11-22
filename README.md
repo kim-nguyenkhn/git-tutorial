@@ -27,4 +27,6 @@ tldr;
 
 ![New Pull Request](screenshots/04_new_pr.png)
 
-![Compare Forks](screenshots/05_compare_forks.png)
+![Compare Forks](screenshots/05b_compare_forks.png)
+
+Click the big green "Create Pull Request" button to finish. From there, I'll merge the PR and you should see your resulting changes in **[kittens.md](kittens.md)**.

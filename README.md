@@ -4,8 +4,8 @@ Basic tutorial &amp; practice environment for first time git-users.
 
 ## Pre-Setup
 
-1. Make sure you have [Git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer.
-2. And of course, make sure you have a [registered GitHub account](https://github.com/join?source=header-home).
+1. Make sure you have **[Git installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)** on your computer.
+2. And of course, make sure you have a **[registered GitHub account](https://github.com/join?source=header-home)**.
 3. Finally, have a text editor ready such as **[Atom](https://atom.io/)** or **[Sublime Text](https://sublimetext.com/3)**.
 
 
